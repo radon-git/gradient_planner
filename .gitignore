@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# 仮想環境（例: venv）
+venv/
+.venv/
+
+# OS固有のファイル
+.DS_Store
+Thumbs.db
